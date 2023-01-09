@@ -12,7 +12,13 @@ O curso conta com 7 modulos, cada modulo contém certo números de aulas e ativi
 
 ## Conhecimento Durante o Curso
 
-* Um pouco sobre os formulários;
+* A conectar um input com o seu label;
+
+    * Colocamos um id para o input e associamos esse id ao atributo for do label;
+
+* Alguns tipos de input, como text e submit;
+
+* Que label possui o display inline e o input possui display inline-block;
 ## Ferramentas Utilizadas
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
