@@ -12,31 +12,7 @@ O curso conta com 7 modulos, cada modulo contém certo números de aulas e ativi
 
 ## Conhecimento Durante o Curso
 
-* A criar links para outras páginas, sejam elas do nosso projeto ou páginas externas;
-
-* Como deixar o texto em negrito com CSS;
-
-* Como remover a decoração do texto;
-
-* Como remover os estilos que o navegador cria automaticamente;
-
-* Como funciona os posicionamentos static, relative e absolute dos elementos;
-
-* Como posicionar o cabeçalho da nossa página;
-
-* A criar listas complexas, com títulos, imagens e parágrafos;
-
-* A utilizar o inline-block;
-
-* Através do CSS, aplicar bordas nos elementos;
-
-* Algumas pseudo-classes CSS:
-
-    *  hover, quando o usuário passa o cursor sobre o elemento;
-
-    * active, quando um elemento está sendo ativado pelo usuário;
-
-* A tag footer, para o rodapé da nossa página.
+* Um pouco sobre os formulários;
 ## Ferramentas Utilizadas
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
