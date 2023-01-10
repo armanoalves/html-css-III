@@ -9,7 +9,7 @@
     <body>
         <header>
             <div class="caixa">
-                <h1><img src="images/Logo.png"></h1>
+                <h1><img src="images/Logo.png" alt="Logo da Churrascaria Alura"></h1>
                 <nav>
                     <ul>
                         <li><a href="index.html">Home</a></li>
@@ -33,8 +33,8 @@
                 <label for="mensagem">Mensagem</label>
                 <textarea id="mensagem" cols="70" rows="10" class="input-padrao" required></textarea>
 
-                <div>
-                    <p>Como prefere o nosso contato?</p>
+                <fieldset>
+                    <legend>Como prefere o nosso contato?</legend>
 
                     <label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email">E-mail</label>
                     
@@ -42,16 +42,16 @@
                     
                     <label for="radio-whatsapp"><input type="radio" name="contato" value="whatsapp" id="radio-whatsapp" checked>Whatsapp</label>
                     
-                </div>
+                </fieldset>
 
-                <div>
-                    <p>Qual horário você prefere ser atendido?</p>
+                <fieldset>
+                    <legend>Qual horário você prefere ser atendido?</legend>
                     <select>
                         <option>Manhã</option>
                         <option>Tarde</option>
                         <option>Noite</option>
                     </select>
-                </div>
+                </fieldset>
 
                 <label> <input class="checkbox" type="checkbox" checked> Gostaria de receber nossas novidades por email?</label>
 
@@ -59,7 +59,7 @@
             </form>
         </main>
         <footer>
-            <img src="images/logo.png">
+            <img src="images/logo.png" alt="Logo da Churrascaria Alura">
             <p class="copyright">&copy; Copyright Churrascaria Alura - 2023</p>
         </footer>
     </body>
