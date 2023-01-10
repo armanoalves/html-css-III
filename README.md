@@ -25,6 +25,14 @@ O curso conta com 7 modulos, cada modulo contém certo números de aulas e ativi
 * O input do tipo radio;
 
 * O select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor;
+
+* Alguns tipos de inputs para celular: email, tel, number, password, date, datetime, month e search;
+
+* Como exibir uma sugestão de preenchimento para os campos, através do atributo placeholder;
+
+* Como deixar uma opção marcada por padrão nos nossos input radio e checkbox, através do atributo checked;
+
+* Como estruturar melhor o nosso código com fieldset e legend;
 ## Ferramentas Utilizadas
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
