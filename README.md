@@ -19,6 +19,12 @@ O curso conta com 7 modulos, cada modulo contém certo números de aulas e ativi
 * Alguns tipos de input, como text e submit;
 
 * Que label possui o display inline e o input possui display inline-block;
+
+* O textarea, para entradas de texto de mais de uma linha;
+
+* O input do tipo radio;
+
+* O select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor;
 ## Ferramentas Utilizadas
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
