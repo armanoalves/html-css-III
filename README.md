@@ -33,6 +33,10 @@ O curso conta com 7 modulos, cada modulo contém certo números de aulas e ativi
 * Como deixar uma opção marcada por padrão nos nossos input radio e checkbox, através do atributo checked;
 
 * Como estruturar melhor o nosso código com fieldset e legend;
+
+* A realizar transições nos nossos elementos, com a propriedade CSS transition;
+
+* A realizar transformações nos nossos elementos, como aumentar proporcionalmente a escala de determinado elemento ou rotacioná-lo, através da propriedade CSS transform;
 ## Ferramentas Utilizadas
 
 Neste projeto apenas foi utilizado duas linguagens para a sua constução, sendo elas:
